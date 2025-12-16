@@ -1,0 +1,19 @@
+:root {
+  --bg: #0f172a;          /* dark blue-gray */
+  --card: #111827;        /* card background */
+  --text: #e5e7eb;        /* main text */
+  --muted: #9ca3af;       /* secondary text */
+  --accent: #38bdf8;      /* sky blue */
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
