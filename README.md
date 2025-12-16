@@ -30,20 +30,20 @@ This project was built to learn React **by building**, not by reading theory.
 ---
 
 ##  Project Structure
-src/
-├─ components/
-│ ├─ SearchBar.jsx
-│ ├─ CurrentWeather.jsx
-│ └─ WeeklyChart.jsx
-├─ services/
-│ ├─ location.js
-│ └─ weather.js
-├─ utils/
-│ └─ quotes.js
-├─ styles/
-│ └─ app.css
-├─ App.jsx
-└─ main.jsx
+#### src/
+#### ├─ components/
+#### │ ├─ SearchBar.jsx
+#### │ ├─ CurrentWeather.jsx
+#### │ └─ WeeklyChart.jsx
+#### ├─ services/
+#### │ ├─ location.js
+#### │ └─ weather.js
+#### ├─ utils/
+#### │ └─ quotes.js
+#### ├─ styles/
+#### │ └─ app.css
+#### ├─ App.jsx
+#### └─ main.jsx
 
 ### 1️⃣ Clone the repository
 ```bash
