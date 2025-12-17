@@ -1,7 +1,7 @@
 #  Weather App (React + Vite)
 
 A clean and modern weather application built with **React** and **Vite**.  
-It shows real-time weather, a weekly temperature chart, and throws in sarcastic / dark Gen-Z style quotes based on current weather conditions.
+It shows real-time weather, a weekly temperature chart, and throws in  quotes based on current weather conditions.
 
 
 ---
