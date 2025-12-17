@@ -3,7 +3,6 @@
 A clean and modern weather application built with **React** and **Vite**.  
 It shows real-time weather, a weekly temperature chart, and throws in sarcastic / dark Gen-Z style quotes based on current weather conditions.
 
-This project was built to learn React **by building**, not by reading theory.
 
 ---
 
@@ -12,7 +11,7 @@ This project was built to learn React **by building**, not by reading theory.
 -  **Auto-detect current location** (GPS)
 -  **Search weather by city**
 -  **7-day temperature chart**
--  **Sarcastic / dark quotes** based on weather
+-  ** quotes** based on weather
 -  **Remembers last searched city**
 -  Fast performance with Vite
 -  Clean component-based structure
